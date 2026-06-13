@@ -59,7 +59,7 @@ ATU BOARD JUMPER SETTINGS:
 ATU BN43-202 Binocular Coil:
 ----------------------------
 
-(Note that BN43-1502 used in this examples below though it applies to BN43-202 in the same manner)
+(Note that BN43-1502 used in examples below though same applies to BN43-202 binocular)
 
 All Toroids and Binocular coil can be wound using AWG24/0.35mm magnet wire.
 
