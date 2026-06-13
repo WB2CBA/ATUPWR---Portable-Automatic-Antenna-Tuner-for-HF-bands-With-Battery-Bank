@@ -61,7 +61,7 @@ ATU BN43-202 Binocular Coil:
 
 (Note that BN43-1502 used in examples below though same applies to BN43-202 binocular)
 
-All Toroids and Binocular coil can be wound using AWG24/0.35mm magnet wire.
+All Toroids and Binocular coil can be wound using AWG28/0.35mm magnet wire.
 
 Winding and installing the binocular toroid:
 
@@ -102,7 +102,7 @@ time to ensure a neat and uniform installation.
 
 Winding ATU Toroids:
 --------------------
-For ATU Toroids AWG24/0.35mm Magnet wire can be used.
+For ATU Toroids AWG28/0.35mm Magnet wire can be used.
 
 There are altogether 7 toroids to wind.
 
