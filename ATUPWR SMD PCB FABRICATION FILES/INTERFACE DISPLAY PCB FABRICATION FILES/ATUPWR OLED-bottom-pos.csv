@@ -1,0 +1,17 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,10uF/16V,CP_Elec_4x5.3,-144,222.5,180,bottom
+C2,100nF,C_0805_2012Metric,-143.4,226.9,180,bottom
+C3,100uF/50V,CP_Elec_6.3x7.7,-181.6,219.1,0,bottom
+C4,100nF,C_0805_2012Metric,-204,239.7,270,bottom
+C5,1000uF/16V,CP_Elec_10x10.5,-155.8,225.3,270,bottom
+C6,100nF,C_0805_2012Metric,-201.1,228.6,0,bottom
+D4,SS34,D_SMA,-172.6,220.6,180,bottom
+L1,100uH,L_0805_2012Metric,-147.3,227,180,bottom
+L2,100uH,L_Bourns-SRN8040_8x8.15mm-MOD2,-168.35,229.75,90,bottom
+R1,10k,R_0805_2012Metric,-201.2,223.9,180,bottom
+R2,4.7k,R_0805_2012Metric,-201.1,226.1,0,bottom
+R3,1k,R_0805_2012Metric,-194.8125,223.7,0,bottom
+R4,1k,R_0805_2012Metric,-194.8,225.9,0,bottom
+R5,1k,R_0805_2012Metric,-194.8125,228.1,0,bottom
+R6,1k,R_0805_2012Metric,-194.8,230.3,0,bottom
+U2,LM2576S-5,TO-263-5_TabPin3,-180.1,234,90,bottom
