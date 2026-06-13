@@ -141,7 +141,7 @@ https://kitsandparts.com/
 
 -	PIC16F1938 Microcontroller : 
 
--	https://www.digikey.com/en/products/detail/microchip-technology/pic16f1938-e-sp/2260353?_gl=1*1w0sc3f*_up*MQ..*_gs*MQ..&gclid=Cj0KCQjw_7PRBhDcARIsAMjV7jlBrJCCRKGNiG3qnc72CkwsDXPB51260vYqYGp62vr6yj8X68ovZrMaAsqaEALw_wcB&gclsrc=aw.ds
+https://www.digikey.com/en/products/detail/microchip-technology/PIC16F1938-I-SP/2258599
 
 -	PIC12F675 Microcontroller: 
 
