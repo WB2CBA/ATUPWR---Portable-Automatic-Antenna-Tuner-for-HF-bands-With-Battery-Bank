@@ -164,6 +164,13 @@ This pin header is used on battery board for stacking ATU board to Power bank bo
 -	90-degree 2.54 mm pitch male header: https://a.co/d/0j8ei4eA
   
 
+ACKNOWLEDGEMENT:
+----------------
+
+I would like to thank DAvid Finitsky, N7DDC for his brilliant ATU100 Automatic Antenna Tuner.
+
+
+Barb WB2CBA - 06/2026
 
 
 
