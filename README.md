@@ -54,9 +54,7 @@ https://github.com/Dfinitski/N7DDC-ATU-100-mini-and-extended-boards
 ATU BOARD JUMPER SETTINGS:
 --------------------------
 
-<img width="1512" height="2016" alt="FWD RVS JUMPERS" src="https://github.com/user-attachments/assets/ad0cdc8a-0003-4ff4-b53a-17f0f3dfb46a" />
-
-
+<img width="1322" height="1214" alt="607506815-ad0cdc8a-0003-4ff4-b53a-17f0f3dfb46a" src="https://github.com/user-attachments/assets/48490167-5c5d-48f1-8da2-a0ef813e40b7" />
 
 Interface and Display PCB:
 --------------------------
