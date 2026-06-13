@@ -51,6 +51,11 @@ https://github.com/Dfinitski/N7DDC-ATU-100-mini-and-extended-boards
 
 <img width="1512" height="2016" alt="IMG_3321" src="https://github.com/user-attachments/assets/32cb2a03-78c9-42ad-9502-9c065a1b9f20" />
 
+ATU BOARD JUMPER SETTINGS:
+--------------------------
+<img width="1512" height="2016" alt="FWD RVS JUMPERS" src="https://github.com/user-attachments/assets/af35c57c-d1fa-40e5-8a44-627771742a16" />
+
+
 Interface and Display PCB:
 --------------------------
 
@@ -81,6 +86,12 @@ These microcontrollers can be programmed using PICKIT3,PICKIT4 or PICKIT5 microc
 programming adapters using posted .hex files in this github files section.
 
 These programmers are common in online shopping sites like amazon.com
+
+OLED DISPLAY BOARD JUMPER SETTING:
+----------------------------------
+<img width="2016" height="888" alt="OLED JUMPERS" src="https://github.com/user-attachments/assets/95e6238c-4770-4047-b0cb-17d5bfea8198" 
+  
+
 
 Here are some photos that will help for your build:
 
