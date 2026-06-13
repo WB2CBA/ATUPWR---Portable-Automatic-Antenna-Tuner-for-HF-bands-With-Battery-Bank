@@ -91,9 +91,8 @@ modeling knife and tin the wires with solder as shown below:
 
 Next cut two 1.5” (~35mm) insulated electrical wire. These two wires will be fed through the 
 
-holes of  binocular core (white wires in the photo), and soldered to the PCB as shown in the 
+holes of  binocular core (white wires in the photo), and soldered to the PCB as shown in the photographs below:
 
-photographs below:
 <img width="776" height="200" alt="binocular3" src="https://github.com/user-attachments/assets/fa3da4e6-7719-49ef-8e8e-4b855a517a38" />
 
 Adjust the length of these insulated through wires as needed before soldering – take your 
