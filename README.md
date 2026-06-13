@@ -56,6 +56,76 @@ ATU BOARD JUMPER SETTINGS:
 
 <img width="1076" height="766" alt="607506815-ad0cdc8a-0003-4ff4-b53a-17f0f3dfb46a" src="https://github.com/user-attachments/assets/5000f64d-2e76-4760-a10c-8448bcb0458b" />
 
+ATU BN43-202 Binocular Coil:
+----------------------------
+All Toroids and Binocular coil can be wound using AWG24/0.35mm magnet wire.
+
+Winding and installing the binocular toroid:
+
+To wind the BN43-202 inductor core start at one side of the core and feed the enamel 
+
+copper wire 5 times through the hole. Every time the enamel copper wire goes through the 
+
+hole counts as one turn.
+
+After completing 5 turns in the first hole now start from the second hole on the opposite 
+
+side of binocular core at the second hole. When winding the toroid, try and keep the wire as 
+
+close as practical to the toroid. When you finish it should look like the example in the photo below:
+
+<img width="476" height="182" alt="binocular1" src="https://github.com/user-attachments/assets/3544b3e3-0624-49e5-a180-79efe6627911" />
+
+NOTE: the entry and exit points of the wires (below and above) on each side of the binocular toroid.
+
+Wind your binocular toroid in the same manner. Ensure that the windings do not overlap and are evenly spaced.
+
+Remove the enamel coating from the wires by either sanding or scraping with a sharp 
+
+modeling knife and tin the wires with solder as shown below:
+<img width="447" height="200" alt="binocular2" src="https://github.com/user-attachments/assets/3cbef20c-0ad1-485a-85c4-5caa5ad30974" />
+
+Next cut two 1.5” (~35mm) insulated electrical wire. These two wires will be fed through the 
+
+holes of  binocular core (white wires in the photo), and soldered to the PCB as shown in the 
+
+photographs below:
+<img width="776" height="200" alt="binocular3" src="https://github.com/user-attachments/assets/fa3da4e6-7719-49ef-8e8e-4b855a517a38" />
+
+Adjust the length of these insulated through wires as needed before soldering – take your 
+
+time to ensure a neat and uniform installation.
+
+Winding ATU Toroids:
+--------------------
+For ATU Toroids AWG24/0.35mm Magnet wire can be used.
+
+There are altogether 7 toroids to wind.
+
+These are:
+
+- 3 x T37-6 type
+
+- 2 x T37-2 Type
+
+- 2 x T50-2 type
+
+Winding Turns for these Toroids are listed below:
+
+L1 - T37-6  4 Turns
+
+L2 - T37-6  6 Turns
+
+L3 - T37-6  9 Turns
+
+L4 - T37-2  11 Turns
+
+L5 - T37-2  16 Turns
+
+L6 - T50-2  21 Turns
+
+L7 - T50-2  30 Turns
+
 
 Interface and Display PCB:
 --------------------------
