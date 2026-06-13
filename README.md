@@ -90,7 +90,7 @@ These programmers are common in online shopping sites like amazon.com
 
 OLED DISPLAY BOARD JUMPER SETTING:
 ----------------------------------
-<img width="2016" height="888" alt="OLED JUMPERS" src="https://github.com/user-attachments/assets/95e6238c-4770-4047-b0cb-17d5bfea8198" 
+<img width="2016" height="888" alt="OLED JUMPERS" src="https://github.com/user-attachments/assets/95e6238c-4770-4047-b0cb-17d5bfea8198"> 
   
 
 
