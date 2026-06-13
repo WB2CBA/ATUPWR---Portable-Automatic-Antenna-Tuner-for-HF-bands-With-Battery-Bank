@@ -58,6 +58,9 @@ ATU BOARD JUMPER SETTINGS:
 
 ATU BN43-202 Binocular Coil:
 ----------------------------
+
+(Note that BN43-1502 used in this examples below though it applies to BN43-202 in the same manner)
+
 All Toroids and Binocular coil can be wound using AWG24/0.35mm magnet wire.
 
 Winding and installing the binocular toroid:
@@ -83,6 +86,7 @@ Wind your binocular toroid in the same manner. Ensure that the windings do not o
 Remove the enamel coating from the wires by either sanding or scraping with a sharp 
 
 modeling knife and tin the wires with solder as shown below:
+
 <img width="447" height="200" alt="binocular2" src="https://github.com/user-attachments/assets/3cbef20c-0ad1-485a-85c4-5caa5ad30974" />
 
 Next cut two 1.5” (~35mm) insulated electrical wire. These two wires will be fed through the 
