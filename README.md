@@ -115,19 +115,19 @@ These are:
 
 Winding Turns for these Toroids are listed below:
 
-L1 - T37-6    4 Turns
+L1 - T37-6  -  4 Turns
 
-L2 - T37-6    6 Turns
+L2 - T37-6  -  6 Turns
 
-L3 - T37-6    9 Turns
+L3 - T37-6  -  9 Turns
 
-L4 - T37-2    11 Turns
+L4 - T37-2  -  11 Turns
 
-L5 - T37-2    16 Turns
+L5 - T37-2   - 16 Turns
 
-L6 - T50-2    21 Turns
+L6 - T50-2  -  21 Turns
 
-L7 - T50-2    30 Turns
+L7 - T50-2   - 30 Turns
 
 
 Interface and Display PCB:
