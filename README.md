@@ -117,7 +117,7 @@ https://jlcpcb.com/
 Through Hole Part BOM List:
 ---------------------------
 
--	1 x OLED Display:   https://a.co/d/0e0w84aL
+-	1 x OLED Display:  https://a.co/d/00k2FKqb
 
 -	2 x BNC PCB Type connector: https://a.co/d/00Qw3aV2
 
