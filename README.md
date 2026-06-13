@@ -130,7 +130,7 @@ Through Hole Part BOM List:
 
 -	1 x Red 3mm LED
 
--	3 x T37-6 Toroid,  2 x T37-2 Toroid, 2 x T50-2 toroid, 1 x BN43-202 binocular core : 
+-	3 x T37-6 Toroid,  2 x T37-2 Toroid, 2 x T50-2 toroid, 1 x BN43-202 binocular core from: 
 
 https://kitsandparts.com/
 
