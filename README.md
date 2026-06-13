@@ -167,7 +167,7 @@ This pin header is used on battery board for stacking ATU board to Power bank bo
 ACKNOWLEDGEMENT:
 ----------------
 
-I would like to thank DAvid Finitsky, N7DDC for his brilliant ATU100 Automatic Antenna Tuner.
+I would like to thank David Finitsky, N7DDC for his brilliant ATU100 Automatic Antenna Tuner.
 
 
 Barb WB2CBA - 06/2026
