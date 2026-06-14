@@ -237,6 +237,12 @@ This pin header is used on battery board for stacking ATU board to Power bank bo
 
   This header is used for attaching ATU to Display Board
   
+  I didn’t design a case for AtuPwr. Instead, I opted to use Clear Battery Heat shrink wrap to wrap all around electronics and batteries to prevent any 
+  
+  short circuits. A 3D case might be a more elegant solution.
+
+<img width="640" height="612" alt="IMG_3396" src="https://github.com/user-attachments/assets/f530bfbb-24a8-4e5a-9d9a-0b2659be9499" />
+
 
 ACKNOWLEDGEMENT:
 ----------------
